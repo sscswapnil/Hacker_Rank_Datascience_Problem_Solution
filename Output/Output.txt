@@ -1,0 +1,4 @@
+Output file contain
+A) Results of problem
+B) python code with jupyter notebook extension
+c) Detail answer in word document
