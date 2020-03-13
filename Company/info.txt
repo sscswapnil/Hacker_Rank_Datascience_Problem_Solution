@@ -1,0 +1,2 @@
+Another simple script to get the immediate insights from the data . Pandas_profiling is the best possible way to get the insights 
+for the given data
